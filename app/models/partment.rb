@@ -1,0 +1,2 @@
+class Partment < ApplicationRecord
+end
